@@ -1,0 +1,23 @@
+body {
+	background: beige;
+  	width: 80%;
+	max-width: 800px; 
+	margin: 10px auto;
+	padding: 20px;
+	border: 0.1px solid beige; 
+}
+table {
+	font-family: Arial, Helvetica, sans-serif;
+	width: 1000px;
+	padding: 10px;
+	border: 1px solid beige;
+	
+}
+a {
+	color: black
+}
+
+a:hover {
+	color: darkred;
+
+}
